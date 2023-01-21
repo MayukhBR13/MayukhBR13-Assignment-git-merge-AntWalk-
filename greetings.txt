@@ -1,4 +1,4 @@
-hello - english
+english :- hello 
 hola 
 konichiwa
 nomoshkar
